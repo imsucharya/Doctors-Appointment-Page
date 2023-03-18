@@ -1,0 +1,31 @@
+:root {
+  /* fonts */
+  --font-newsreader: Newsreader;
+  --font-inter: Inter;
+  --font-quicksand: Quicksand;
+
+  /* font sizes */
+  --font-size-sm: 17px;
+  --font-size-base: 20px;
+  --font-size-lg: 23px;
+  --font-size-xl: 24px;
+  --font-size-2xl: 30px;
+  --font-size-3xl: 32px;
+  --font-size-4xl: 59px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: #fcfcfc;
+  --color-gray-200: #f5f3fe;
+  --color-gray-300: #b0afaf;
+  --color-gray-400: #808086;
+  --color-gray-500: #201f50;
+  --color-indigo: #6366f1;
+  --color-violet: #797bf3;
+
+  /* border radiuses */
+  --br-xs: 6px;
+  --br-sm: 11px;
+  --br-md: 14px;
+  --br-lg: 35px;
+}
